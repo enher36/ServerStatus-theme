@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "src": "/json/stats.json",
+            "dest": "106.53.186.192:8080/json/stats.json"
+        },
+        {
+            "src": "/detail",
+            "dest": "106.53.186.192:8080/detail"
+        },
+        {
+            "src": "/map",
+            "dest": "106.53.186.192:8080/map"
+        },
+        {
+            "src": "/i",
+            "dest": "106.53.186.192:8080/i"
+        },
+        {
+            "src": "/report",
+            "dest": "106.53.186.192:8080/report"
+        }
+    ]
+}
